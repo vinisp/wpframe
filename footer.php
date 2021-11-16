@@ -21,6 +21,7 @@ if (!function_exists('elementor_theme_do_location') || !elementor_theme_do_locat
 }
 ?>
 
+<?php wp_footer(); ?>
 
 </body>
 
