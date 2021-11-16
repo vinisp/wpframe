@@ -189,6 +189,7 @@ to override any of the settings in this section, add your styling code in the cu
   padding-top: 1rem;
   padding-bottom: 1rem;
   position: relative;
+  border: solid 2px black;
 }
 .site-footer .footer-inner {
   display: flex;
